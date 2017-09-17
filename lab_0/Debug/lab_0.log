@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\sayo\source\repos\lab_0\lab_0\source.cpp(153): warning C4129: 'E': unrecognized character escape sequence
+c:\users\sayo\source\repos\lab_0\lab_0\source.cpp(208): warning C4129: 'E': unrecognized character escape sequence
+  lab_0.vcxproj -> C:\Users\sayo\source\repos\lab_0\Debug\lab_0.exe
+  lab_0.vcxproj -> C:\Users\sayo\source\repos\lab_0\Debug\lab_0.pdb (Partial PDB)
